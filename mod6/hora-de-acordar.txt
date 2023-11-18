@@ -1,0 +1,8 @@
+Algoritmo hora de acordar
+Início
+O Alarme toca e eu abro os olhos
+Desperto
+Ponho os pés no chão
+Coloco o calçado
+Levanto da cama.
+Fim
