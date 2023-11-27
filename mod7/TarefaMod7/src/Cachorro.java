@@ -1,3 +1,7 @@
+/**
+ * @author Cassio Gruber
+ * @version 2.0
+ */
 public class Cachorro {
     private String nome;
 
@@ -73,7 +77,7 @@ public class Cachorro {
     public void comer(){
         System.out.println("Comendo");
     }
-
+    //método correr
     public String correr(){
         return "Correndo";
     }
