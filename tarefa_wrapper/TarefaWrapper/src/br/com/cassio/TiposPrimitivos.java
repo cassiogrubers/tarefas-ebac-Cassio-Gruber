@@ -10,6 +10,6 @@ public class TiposPrimitivos {
         /*Casting implícito, pegando 8 bits e colocando em 32 bits*/
         byte b2 = 1;
         int numero = b2;
-        System.out.println(b2);
+        System.out.println(numero);
     }
 }
